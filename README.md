@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF548A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8568F9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nicole+Santos;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C65DE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nicole+Santos;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Niiiih0302&bg_color=0d1117&color=FF548A&line=1C65DE&point=4BDCEC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -28,13 +28,13 @@
 <div> 
     <a href="https://instagram.com/nidrigues10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href ="nidrigues14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href ="mailto:nidrigues14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Niiiih0302/Niiiih0302/blob/output/github-contribution-grid-snake.yml)
+  ![Snake animation](https://github.com/Niiiih0302/Niiiih0302/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
