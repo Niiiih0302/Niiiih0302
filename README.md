@@ -1,10 +1,13 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8568F9&height=120&section=header"/>
 
-<div>
-    <a href="https://github.com/Niiiih0302"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niiiih0302&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niiiih0302&layout=compact&langs_count=16&theme=dracula" alt="">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8568F9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nicole+Santos;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Niiiih0302&bg_color=0d1117&color=8568F9&line=6535BA&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Niiiih0302&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 
 ##
 
@@ -29,3 +32,5 @@
   ![Snake animation](https://github.com/Niiiih0302/Niiiih0302/blob/output/github-contribution-grid-snake.yml)
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8568F9&height=120&section=footer"/>
