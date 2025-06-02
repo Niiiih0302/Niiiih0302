@@ -31,6 +31,5 @@
     <a href ="mailto:nidrigues14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Niiiih0302/Niiiih0302/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF548A&height=120&section=footer"/>
